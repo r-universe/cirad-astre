@@ -1,6 +1,5 @@
 [
   {
-    "package": "geonetwork",
-    "oncran": true
+    "package": "topomatch"
   }
 ]
