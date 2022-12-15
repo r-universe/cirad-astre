@@ -3,6 +3,11 @@
 	url = https://github.com/cirad-astre/universe
 	shallow = true
 	branch = HEAD
+[submodule "spreadrate"]
+	path = spreadrate
+	url = https://forgemia.inra.fr/umr-astre/spreadrate
+	shallow = true
+	registered = true
 [submodule "sit"]
 	path = sit
 	url = https://forgemia.inra.fr/umr-astre/sit
