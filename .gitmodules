@@ -3,6 +3,11 @@
 	url = https://github.com/cirad-astre/universe
 	shallow = true
 	branch = HEAD
+[submodule "crashbayes"]
+	path = crashbayes
+	url = https://forgemia.inra.fr/umr-astre/crashbayes
+	shallow = true
+	registered = true
 [submodule "spreadrate"]
 	path = spreadrate
 	url = https://forgemia.inra.fr/umr-astre/spreadrate
