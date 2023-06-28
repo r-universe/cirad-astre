@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cirad-astre/universe
-	shallow = true
 	branch = HEAD
 [submodule "crashbayes"]
 	path = crashbayes
 	url = https://forgemia.inra.fr/umr-astre/training/crashbayes
-	shallow = true
-	registered = true
 [submodule "spreadrate"]
 	path = spreadrate
 	url = https://forgemia.inra.fr/umr-astre/spreadrate
-	shallow = true
-	registered = true
 [submodule "sit"]
 	path = sit
 	url = https://forgemia.inra.fr/umr-astre/sit
-	shallow = true
-	registered = true
 [submodule "topomatch"]
 	path = topomatch
 	url = https://forgemia.inra.fr/umr-astre/topomatch
-	shallow = true
-	registered = true
 [submodule "mapMCDA"]
 	path = mapMCDA
 	url = https://forgemia.inra.fr/umr-astre/mapMCDA
-	shallow = true
-	registered = true
 [submodule "geonetwork"]
 	path = geonetwork
 	url = https://forgemia.inra.fr/umr-astre/geonetwork
-	shallow = true
-	registered = true
