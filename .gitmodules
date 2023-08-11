@@ -5,18 +5,18 @@
 [submodule "crashbayes"]
 	path = crashbayes
 	url = https://forgemia.inra.fr/umr-astre/training/crashbayes
-[submodule "spreadrate"]
-	path = spreadrate
-	url = https://forgemia.inra.fr/umr-astre/spreadrate
-[submodule "sit"]
-	path = sit
-	url = https://forgemia.inra.fr/umr-astre/sit
-[submodule "topomatch"]
-	path = topomatch
-	url = https://forgemia.inra.fr/umr-astre/topomatch
-[submodule "mapMCDA"]
-	path = mapMCDA
-	url = https://forgemia.inra.fr/umr-astre/mapMCDA
 [submodule "geonetwork"]
 	path = geonetwork
 	url = https://forgemia.inra.fr/umr-astre/geonetwork
+[submodule "mapMCDA"]
+	path = mapMCDA
+	url = https://forgemia.inra.fr/umr-astre/mapMCDA
+[submodule "sit"]
+	path = sit
+	url = https://forgemia.inra.fr/umr-astre/sit
+[submodule "spreadrate"]
+	path = spreadrate
+	url = https://forgemia.inra.fr/umr-astre/spreadrate
+[submodule "topomatch"]
+	path = topomatch
+	url = https://forgemia.inra.fr/umr-astre/topomatch
