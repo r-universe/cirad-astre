@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cirad-astre/universe
+	url = https://github.com/cirad-astre/cirad-astre.r-universe.dev
 	branch = HEAD
 [submodule "crashbayes"]
 	path = crashbayes
