@@ -11,6 +11,9 @@
 [submodule "mapMCDA"]
 	path = mapMCDA
 	url = https://forge.inrae.fr/umr-astre/mapMCDA
+[submodule "practicalbayes"]
+	path = practicalbayes
+	url = https://gitlab.cirad.fr/astre/practicalbayes
 [submodule "sit"]
 	path = sit
 	url = https://forge.inrae.fr/umr-astre/sit
